@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.edu.upc.tf_arquitectura_web.TfArquitecturaWebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.123 s - in pe.edu.upc.tf_arquitectura_web.TfArquitecturaWebApplicationTests
